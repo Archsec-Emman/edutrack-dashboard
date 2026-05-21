@@ -1,7 +1,3 @@
-Here's a clean, copy‑paste‑ready markdown README for the `edutrack-dashboard` repository – just copy everything below and paste it into the GitHub edit box.
-
----
-
 # EduTrack Dashboard
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
